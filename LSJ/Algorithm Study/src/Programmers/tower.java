@@ -4,6 +4,7 @@ public class tower {
 
 	
 	//ž
+	//
     public int[] solution(int[] heights) {
        
     	int towerNum= heights.length;
